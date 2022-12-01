@@ -7,6 +7,6 @@ Assumptions:
 
 Note: 
 - All invalid cases have been handled with exceptions
-- Sample request/response for all APIs are given as Postman Collection
+- Sample request/response for all APIs are given as Postman Collection at resources->collection
 
 
