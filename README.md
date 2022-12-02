@@ -8,5 +8,5 @@ Assumptions:
 Note: 
 - All invalid cases have been handled with exceptions
 - Sample request/response for all APIs are given as Postman Collection at resources->collection
-
-
+- H2 console URL : http://localhost:8080/h2-ui/
+- Tables: Players (player_id, balance) & Transaction(transaction_id, player_id, transaction_type, transaction_amount, created_at)
